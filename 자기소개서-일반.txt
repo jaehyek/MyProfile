@@ -1,0 +1,41 @@
+안녕하십니까? 
+
+현재 LG전자에 근무중인 최재혁 입니다.
+
+제 이력을 간단히 소개 드리면 ,  15년 이상 Embedded / Firmware Engineer로서 
+다양한 분야의 경험을 가지고 있습니다. 
+
+좀 더 자세히 설명을 하자면, 
+삼성전자에서 Graphic Accelerator SOC team에서 Windows Display Device Driver및 Bios 
+ 개발을 했습니다 ( 약 10년 ). 
+ 
+SynerTek Korea 벤처 기없에서   PDA SOC개발하면서 
+  RealTime OS용 USB Device Driver, Camera Device Driver을 
+  Windows OS용 USB Device Driver을 
+  개발했습니다. ( 2년 넘게 )
+  
+Motorola Korea에서  Bluetooth Stack Leader로서 
+  한국향 폰 개발에 참여했습니다. ( 1,5년 , 한국지사 철수함) 
+
+LG전자에서는 
+  Verizon Wireless 용  Feature Phone S/W 개발 PL 이었고, (2년 넘게 )
+  현재는 품질부서에서  DDR, eMMC,UFS Memory 제품에 대한 신뢰성을 담당하고 있습니다. (4년 이상)
+  
+특히 eMMC, UFS의 신뢰성을 확인하기 위해  기능 특화된 시스템을 만들어 
+5개 Vendor(SK Hynix, Samsung, Toshiba, Sandisk, Micon)의 제품을  시험하고 
+합격/불합격의 인정을 내 주어 생산토록 하고 있습니다. 
+
+그리고 현 업무하면서 5개 vendor의 FTL 불량으로 인하여 필드에서 발생한 Failure Mode의 
+원인 수집 과  case binary build 및  적용해 왔습니다 
+
+이러한 제 경험이 귀사에 도움이 될 것으로 확신하면서 지원합니다. 
+
+추가적으로 가지고 있는 경력을 나열하면
+통계적으로 접근 가능하고 ( 현재 Six Sigma MBB을 가지고 있어 교육가능함 )
+Data Mining 가능하며 ( SQL(2년), Python (6년) )
+기능 자동화을 할 수 있습니다. ( Deep Learning (1.5년), MFC (10년) )
+
+자세한 사항은 동봉되는 제 이력서를 참조해 주십시오.
+감사합니다.
+
+

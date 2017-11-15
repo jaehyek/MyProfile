@@ -1,0 +1,32 @@
+Dear Hire Manager.  
+
+I am Jaehyek Choi, currently working for LG Electronics.
+
+I like to briefly introduce my history as an Embedded / Firmware Engineer for more than 15 years.
+
+To be more specific,
+1)I have developed   Windows Display Device Driver and BIOS when I joinded  Samsung Electronics Graphic Accelerator SOC team 
+ (about 10 years).
+ 
+2) At SynerTek Korea PDA SOC development 
+  I have developed USB Storage Device Driver and Camera Device Driver for RealTime OS, and 
+  USB Device Driver for Windows OS (Over two years)
+  
+3) As a Bluetooth Stack Leader in Motorola Korea
+  I participated in the development of phone for Korea. (1,5 years)
+  and I have developed lot of device driver such as LCD, NOR flash memory, PMIC etc .
+
+4) At LG Electronics
+  I was Feature Phone S / W development PL for Verizon Wireless (over 2 years)
+  Currently, I am responsible for the reliability of DDR, eMMC, and UFS Memory products. (Over 4 years)
+  
+Especially,I have tested the eMMC/UFS of five vendors (SK Hynix, Samsung, Toshiba, Sandisk, and Micon) for the reliability, 
+I issue a permission to pass / fail to produce.
+
+If I list up any additional experiences I have,
+Statistically accessible (currently available with Six Sigma MBB)
+Data Mining is available (SQL (2 years), Python (6 years))
+I can automate functions. (Deep Learning (1.5 years), MFC (10 years))
+
+For more details, please refer to the enclosed resume.
+Thank you

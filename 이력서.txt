@@ -1,0 +1,49 @@
+-------------------------------------------------------------------
+Software Project Leader & Manager
+LG Electronics 
+
+March, 2004 — November, 2017 (13 years 8 months)
+Role1: Developing Linux Kernel Driver and Component Reliability
+Role2 : Feature Phone Software Project Leader
+Developing: eMMC Kernel Device Driver for Android Phone
+Setup eMMC/UFS FTL(flash translation layer) Validation Equipment & processing - Target vendor: Samsung, Toshiba, SK Hynix, SanDisk, Micron
+Automation : Android Phone UI & Screen Touch
+Analyzing : Field Failure Mode from Service Center DataBase
+Monitoring the trend of FFR ( Field Fail Rate
+Project Leader: Verizon Wireless Phone (VX9800, VX9900).
+
+-------------------------------------------------------------------
+Embedded Software Engineer & Function Leader
+Motorola Korea 
+
+June, 2002 — December, 2003 (1 year 6 months)
+Position Title : Embedded Software Engineer & Function Leader
+Role : Writing Device Driver for Mobile Phone and Function Leader of Bluetooth Profile Which was based on REX ( Qualcomm Real time OS
+Wrote Device Driver : LCD, NOR Flash Memory, Power management
+Project involved : RaceTac, T720
+Tele-Communication with Bluetooth Head Quarter Team
+Function Leader : Bluetooth stack(Headset, Hands-free, DUN )
+
+-------------------------------------------------------------------
+Embedded Software Engineer
+Synertek Korea inc. 
+
+April, 2000 — June, 2002 (2 years 2 months)
+Role : Writing device driver for PDA-supporting Chip Design
+Wrote device driver : USB image, USB Storage, Camera H/W Design
+Porting Protocol : IrDa Stack, TCP/UDP/IP
+Analysis for algorithm : JPEG, MPEG4
+Guide a H/W design Structure : JPEG, MPEG4 ;
+
+-------------------------------------------------------------------
+Embedded Software Engineer
+Samsung Electronics 
+
+February, 1990 — March, 2000 (10 years 1 month)
+Role : Writing Display device driver with Graphic Semi-conductor Chip Design Team
+Analyze a 2D graphic algorithm in Windows
+Guide a H/W design Structure for Graphic Chip
+Wrote the 2D, 3D Display Device Driver for the Windows supporting Hardware Graphic chipset
+Wwrote the WDM driver with DirectX
+Wrote the Video Bios for graphic Chip
+
