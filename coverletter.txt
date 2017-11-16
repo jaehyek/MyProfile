@@ -17,16 +17,16 @@ To be more specific,
   and I have developed lot of device driver such as LCD, NOR flash memory, PMIC etc .
 
 4) At LG Electronics
-  I was Feature Phone S / W development PL for Verizon Wireless (over 2 years)
+  I was Feature Phone S / W development Project Leader for Verizon Wireless (over 2 years)
   Currently, I am responsible for the reliability of DDR, eMMC, and UFS Memory products. (Over 4 years)
   
 Especially,I have tested the eMMC/UFS of five vendors (SK Hynix, Samsung, Toshiba, Sandisk, and Micon) for the reliability, 
-I issue a permission to pass / fail to produce.
+I have issued a permission to pass / fail to produce.
 
 If I list up any additional experiences I have,
-Statistically accessible (currently available with Six Sigma MBB)
-Data Mining is available (SQL (2 years), Python (6 years))
-I can automate functions. (Deep Learning (1.5 years), MFC (10 years))
+Statistically accessible (currently available with Six Sigma MBB),
+Data Mining is available (SQL (2 years), Python (6 years)),
+and I can automate any functions. (Deep Learning (1.5 years), MFC (10 years))
 
 For more details, please refer to the enclosed resume.
 Thank you
