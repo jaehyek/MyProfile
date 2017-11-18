@@ -6,10 +6,19 @@ March, 2004 — November, 2017 (13 years 8 months)
 Role1: Developing Linux Kernel Driver and Component Reliability
 Role2 : Feature Phone Software Project Leader
 Developing: eMMC Kernel Device Driver for Android Phone
-Setup eMMC/UFS FTL(flash translation layer) Validation Equipment & processing - Target vendor: Samsung, Toshiba, SK Hynix, SanDisk, Micron
-Automation : Android Phone UI & Screen Touch
-Analyzing : Field Failure Mode from Service Center DataBase
-Monitoring the trend of FFR ( Field Fail Rate
+Setup eMMC/UFS FTL(flash translation layer) Validation Equipment & processing 
+    - Target vendor: Samsung, Toshiba, SK Hynix, SanDisk, Micron
+    - Validation Items : Wear Leveling, Bad Block Management, Garbage Collection,Power Off Recovery, Mapping Algorithm
+    - Method: Sudden Power Off with GPIO, Random-Write/Sequence-Write, Sleep/Wake
+    - Platform : Linux Little Kernel from BootLoader
+    - Issuing Certification : certificate to the Target Vendor for mass product.
+    - Failure Mode Collection( refer to https://jaehyek.github.io/category/#eMMC-UFS )
+Analyzing  Field Failure Mode from Service Center DataBase.
+Monitoring the trend of FFR ( Field Fail Rate ) of eMMC/UFS  
+Automation :  Android Phone UI & Screen Touch for testing
+    - Automation with AxiDraw to touch on smartphone.
+    - Detecting Abnormal Image on smartphone using OpenCV and Deep Learning 
+    ( CNN, Faster RCNN, )
 Project Leader: Verizon Wireless Phone (VX9800, VX9900).
 
 -------------------------------------------------------------------
@@ -33,17 +42,17 @@ Role : Writing device driver for PDA-supporting Chip Design
 Wrote device driver : USB image, USB Storage, Camera H/W Design
 Porting Protocol : IrDa Stack, TCP/UDP/IP
 Analysis for algorithm : JPEG, MPEG4
-Guide a H/W design Structure : JPEG, MPEG4 ;
+Guide a H/W design Structure : JPEG, MPEG4
 
 -------------------------------------------------------------------
 Embedded Software Engineer
 Samsung Electronics 
 
 February, 1990 — March, 2000 (10 years 1 month)
-Role : Writing Display device driver with Graphic Semi-conductor Chip Design Team
-Analyze a 2D graphic algorithm in Windows
-Guide a H/W design Structure for Graphic Chip
-Wrote the 2D, 3D Display Device Driver for the Windows supporting Hardware Graphic chipset
-Wwrote the WDM driver with DirectX
-Wrote the Video Bios for graphic Chip
+Role : Writing Display device driver for PCI-Bus Graphic Accelerator One Chips
+Guiding a H/W design Structure for Graphic Chip 
+Writing the 2D, 3D Display Accelerator Device Driver for Windows3, 95, NT, 2000
+Writing the Video BIOS for PCI-Bus Graphic Accelerator Chip
+Supporting all of windows products.
+
 
