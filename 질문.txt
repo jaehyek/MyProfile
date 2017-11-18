@@ -1,0 +1,42 @@
+1) best project?
+The best project I have is  to write a Windows Display device driver for Accelerator Graphic chip when I was in Samsung Electronics.
+This project have lasted for almost 7 years, and  was very big .  I have used a MASM assembly , C / C++, MFC with windwos DDK. 
+My pride is the product of this project was launched on Graphic Card Market several times.
+
+Speaking one more, I like to list-up PDA-Chip project .
+My roles were to develop the device driver of USB, Camera for PDA-Chip on realtimes OS and windows USB Drvier to play a picture on PC .
+Main CPU of this project was ARM7.
+
+2) Why should we hire you?
+I like to briefly introduce my history as an Embedded / Firmware Engineer for more than 15 years.
+
+To be more specific,
+1)I have developed   Windows Display Device Driver and BIOS when I joinded  Samsung Electronics Graphic Accelerator SOC team 
+ (about 10 years).
+ 
+2) At SynerTek Korea PDA SOC development 
+  I have developed USB Storage Device Driver and Camera Device Driver for RealTime OS, and 
+  USB Device Driver for Windows OS (Over two years)
+  
+3) As a Bluetooth Stack Leader in Motorola Korea
+  I participated in the development of phone for Korea. (1,5 years)
+  and I have developed lot of device driver such as LCD, NOR flash memory, PMIC etc .
+
+4) At LG Electronics
+  I was Feature Phone S / W development Project Leader for Verizon Wireless (over 2 years)
+  Currently, I am responsible for the reliability of DDR, eMMC, and UFS Memory products. (Over 4 years)
+  
+Especially,I have tested the eMMC/UFS of five vendors (SK Hynix, Samsung, Toshiba, Sandisk, and Micon) for the reliability, 
+I have issued a permission to pass / fail to produce.
+
+If I list up any additional experiences I have,
+Statistically accessible (currently available with Six Sigma MBB),
+Data Mining is available (SQL (2 years), Python (6 years)),
+and I can automate any functions. (Deep Learning (1.5 years), MFC (10 years))
+
+If you have questions about me , ask  my previous manager "YoungLee" with email "youngleeemail@gmail.com"
+
+Finally I am confident that I can meet any requirement from you . 
+
+3) What's your expected salary range?
+I just want to negotiate 
