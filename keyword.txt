@@ -1,0 +1,21 @@
+Embedded/Firmware Driver Developing : 
+    2D/3D Display driver for Windows with PCI bus, USB Camera, USB Storage, 
+    LCD, Serial I/O, irDA stack, I2C, SPI, Bluetooth Profile, GPIO, JPEG, MPEG4, 
+    Flash Device (NOR,NAND) in Realtime OS, eMMC/UFS in android, WDM in Windows OS
+Programming Language and Development Platform: 
+    C/C++, Java, Python, PyQt, MSSQL, Sqlite3, Assembly(MASM) On Intel and ARM, 
+    Gcc & ToolChain in Ubuntu(Linux), MS Visual Studio VC++, Git, 
+    Eclipse, Android Studio,Tensorflow,Theano, Caffe, Windows SDK/DDK, WinDbg, 
+    SoftICE, DirectDraw, Direct3D
+Project Leader/Manager: 
+    Function Leader : Bluetooth
+    Project Leader: Mobile Phone( Racetac, PCC, Verizon Wireless )
+    Manager : Validation of Quality, and Improvement of Field Defect
+Statistics and SW Quality & Reliability: 
+    Six Sigma Master Black Belt with ANOVA, Linear/Multiple Regression Analysis, 
+    multivariate analysis, FMEA, Gauge R&R, 5-Why, SPC , Minitab ( statistic tool )
+Image Processing: 
+    Realtime image detection using OpenCV and Faster-RCNN based on tensorflow
+    ( just started 1.5 year ago )
+Certificate: 
+    Six Sigma MBB(Master Black Belt) from LG Electronics
