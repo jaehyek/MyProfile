@@ -1,42 +1,15 @@
-1) best project?
-The best project I have is  to write a Windows Display device driver for Accelerator Graphic chip when I was in Samsung Electronics.
-This project have lasted for almost 7 years, and  was very big .  I have used a MASM assembly , C / C++, MFC with windwos DDK. 
-My pride is the product of this project was launched on Graphic Card Market several times.
+-------------------------------------------------------------------------------------------
+Why are you going to move ? 
 
-Speaking one more, I like to list-up PDA-Chip project .
-My roles were to develop the device driver of USB, Camera for PDA-Chip on realtimes OS and windows USB Drvier to play a picture on PC .
-Main CPU of this project was ARM7.
+Fourth Generation Induestry revolution is comming or alread started.  
+the main core feature is AI, Autonomous vehicle, IOT, robot engineering, 3D technology.
+In addition I also  want to particiate in this revolution.
+and I search the leading company, and applied to silicom gear .
 
-2) Why should we hire you?
-I like to briefly introduce my history as an Embedded / Firmware Engineer for more than 15 years.
+recently I start to study Deep Learning, and programm Deep Learning algorithm with Python language for almost 2 years .
 
-To be more specific,
-1)I have developed   Windows Display Device Driver and BIOS when I joinded  Samsung Electronics Graphic Accelerator SOC team 
- (about 10 years).
- 
-2) At SynerTek Korea PDA SOC development 
-  I have developed USB Storage Device Driver and Camera Device Driver for RealTime OS, and 
-  USB Device Driver for Windows OS (Over two years)
-  
-3) As a Bluetooth Stack Leader in Motorola Korea
-  I participated in the development of phone for Korea. (1,5 years)
-  and I have developed lot of device driver such as LCD, NOR flash memory, PMIC etc .
 
-4) At LG Electronics
-  I was Feature Phone S / W development Project Leader for Verizon Wireless (over 2 years)
-  Currently, I am responsible for the reliability of DDR, eMMC, and UFS Memory products. (Over 4 years)
-  
-Especially,I have tested the eMMC/UFS of five vendors (SK Hynix, Samsung, Toshiba, Sandisk, and Micon) for the reliability, 
-I have issued a permission to pass / fail to produce.
-
-If I list up any additional experiences I have,
-Statistically accessible (currently available with Six Sigma MBB),
-Data Mining is available (SQL (2 years), Python (6 years)),
-and I can automate any functions. (Deep Learning (1.5 years), MFC (10 years))
-
-If you have questions about me , ask  my previous manager "YoungLee" with email "youngleeemail@gmail.com"
-
-Finally I am confident that I can meet any requirement from you . 
+as second reason, I like to Europe.
 
 -------------------------------------------------------------------------------------------
 Why should we hire you?
@@ -53,6 +26,25 @@ silicon gears have four service
   I was embedded / firmware engineer for over 15 years .
   So I can contribute to silicon gear .
   
+  I can meet almost  requirement of this position 
+  
+    -------------------------------------------------------------------------------------------
+    silicon gear의 Embedded Sw Developer의 개발 요구사항.
+
+    Kernel development and device drivers experience --> OK
+    Building a system with Yocto  --> NO, but I used repo system 
+    Linux Device tree experience  --> Yes
+    uBoot knowledge                 --> Yes
+    C/C++ programming               --> Yes
+    Previous experience in Python is appreciated  --> Yes  experience for 6 years.
+    Shell scripting                                --> yes
+    Previous experience in Real-time design and programming  --> yes
+    Basic electronics – capability to understand schematics and use an oscilloscope (yes, we use them) --> Yes 
+    Experience in team-based work, using issue tracker like JIRA, collaboration software like Confluence, and version control systems like SVN or GIT (Bitbucket)
+      --> Yes
+    VxWorks experience is more than welcome  --> I can do it
+    English fluency! All our customers are outside Spain
+
 
 
 
@@ -62,18 +54,7 @@ What's your expected salary range?
 I don't know a living cost in spain , and don't konw the average engineer wage in spain  . 
 I will follow your modest guide line .
 
--------------------------------------------------------------------------------------------
-Why are you going to move ? 
 
-Fourth Generation Induestry revolution is comming or alread started.  
-the main core feature is AI, Autonomous vehicle, IOT, robot engineering, 3D technology.
-In addition I also  want to particiate in this revolution.
-and I search the leading company, and applied to silicom gear .
-
-recently I start to study Deep Learning, and programm Deep Learning algorithm with Python language for almost 2 years .
-
-
-as second reason, I like to Europe.
 
 -------------------------------------------------------------------------------------------
 how do you stay on there ? 
@@ -87,7 +68,12 @@ Tell me a suggestion you have made that was implemented in this firmware field?
 -------------------------------------------------------------------------------------------
 What experience do you have in this firmware field?
 
+-------------------------------------------------------------------------------------------
+What is your greatest strong point?
 
+If I got a bug in my code, I no doubt make to reproduce the issue, and fix the bug. 
+although it take long time. 
+because that is pride problem , that is stroing point or weak point.
 
 -------------------------------------------------------------------------------------------
 What is your greatest weakness?
@@ -96,9 +82,10 @@ What is your greatest weakness?
 
 -------------------------------------------------------------------------------------------
 What challenges are you looking for in this position?
--->  how you would like to be able to
-effectively utilize your skills and
-experience if you were hired for the job
+
+--> In the autonomous vehicle industry, high reliability is required essentially 
+So  My challenge is how to meet the requirement 
+I enjoy that if I am hired . 
 
 -------------------------------------------------------------------------------------------
 Have you ever had a conflict with a boss or professor? How was it resolved?
@@ -233,8 +220,6 @@ Tip 6: Follow up and send a thank-you note
 
 당신은 지속적인 인상을 남기고 설정합니다.
 하드 카피 감사 노트, 흥분, 자격 표현 그리고 그 직위에 더 관심을 가져라.
-
-
 
 
 
