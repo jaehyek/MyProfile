@@ -38,5 +38,203 @@ If you have questions about me , ask  my previous manager "YoungLee" with email 
 
 Finally I am confident that I can meet any requirement from you . 
 
-3) What's your expected salary range?
-I just want to negotiate 
+-------------------------------------------------------------------------------------------
+Why should we hire you?
+
+silicon gears have four service 
+  1. Logging system
+  2. Automotive Ethernet : CAN, LIN, FlexRay
+  3. ADAS system 
+  4. Automotive Security 
+  
+  I can do implement the driver for CAN,LIN,FlexRay,
+  and I do  Board bring-up, and  upload the realtime OS "vxWorks,QNX, Integrity, Linux Kernel" additoin to AUTOSAR
+  
+  I was embedded / firmware engineer for over 15 years .
+  So I can contribute to silicon gear .
+  
+
+
+
+-------------------------------------------------------------------------------------------
+What's your expected salary range?
+
+I don't know a living cost in spain , and don't konw the average engineer wage in spain  . 
+I will follow your modest guide line .
+
+-------------------------------------------------------------------------------------------
+Why are you going to move ? 
+
+Fourth Generation Induestry revolution is comming or alread started.  
+the main core feature is AI, Autonomous vehicle, IOT, robot engineering, 3D technology.
+In addition I also  want to particiate in this revolution.
+and I search the leading company, and applied to silicom gear .
+
+recently I start to study Deep Learning, and programm Deep Learning algorithm with Python language for almost 2 years .
+
+
+as second reason, I like to Europe.
+
+-------------------------------------------------------------------------------------------
+how do you stay on there ? 
+
+
+-------------------------------------------------------------------------------------------
+Tell me a suggestion you have made that was implemented in this firmware field?
+
+
+
+-------------------------------------------------------------------------------------------
+What experience do you have in this firmware field?
+
+
+
+-------------------------------------------------------------------------------------------
+What is your greatest weakness?
+정직과 진정한 약점을 나열합니다.
+당신이 한 일을 강조하십시오. 그것을 극복하고 향상 시키십시오.
+
+-------------------------------------------------------------------------------------------
+What challenges are you looking for in this position?
+-->  how you would like to be able to
+effectively utilize your skills and
+experience if you were hired for the job
+
+-------------------------------------------------------------------------------------------
+Have you ever had a conflict with a boss or professor? How was it resolved?
+
+Note that if you say no, most interviewers
+will keep drilling deeper to find a conflict.
+The key is how you behaviourally reacted to
+conflict and what you did to resolve it.
+For example: “Yes, I have had conflicts in
+the past. Never major ones, but there have
+been disagreements that needed to be
+resolved. I've found that when conflict
+occurs, it helps to fully understand the other
+person’s perspective, so I take time to listen
+to their point of view, and then I seek to
+work out a collaborative solution. For
+example . . .”
+Focus your answer on the behavioural
+process for resolving the conflict and
+working collaboratively.
+
+-> 없다고 말하지 마라. 그런 경우 더욱 더 파고 들 것이다. 
+
+-> 담배피는 사람을 싫어한다. 냄새가 많이 나서 smoker에게 내 애로를 애기했지만 해결되지 않았다. 
+   그래서  나는 다른 자리로 옮겼다.
+--> 다른 하나는  사용 중인 서버가 노이즈를 많이 냈다. 그래서  매니저에게 애기해서  방을 만들고, 
+   소리 나는 장비를 한 곳으로 모았다. 
+   
+-------------------------------------------------------------------------------------------
+What do you know about us?
+
+1) Visit the company website; look in the “about us” section and “careers” sections
+2) Visit the company’s LinkedIn page  to view information about the company
+3) Google a keyword search phrase like “press releases” followed by the company name
+
+1. What type of product or service the company sells
+2. How long the company has been in business
+3. What the company culture is like OR what the company mission statement is, and how the culture and/or mission relate to your values or personality
+
+
+-------------------------------------------------------------------------------------------
+Why do you want to work with us?
+
+
+
+-------------------------------------------------------------------------------------------
+Do you have any questions to ask us?
+
+Never ask Salary, perks, leave, place
+of posting, etc. regarded questions.
+Try to ask more about the company to
+show how early you can make a
+contribution to your organization like
+“Sir, with your kind permission I
+would like to know more about
+induction and developmental
+programs?”
+OR
+
+Sir, I would like to have my feedback,
+so that I can analyze and improve my
+strengths and rectify my
+shortcomings.
+
+-------------------------------------------------------------------------------------------
+Tip 1: Do your homework
+
+목록 준비 은 가능성이있는 질문은 사전에 도움이 될 것입니다.
+- 자사의 사명을 이해하기 위해 사이트에서 성명, 제품 제안 및 관리팀. 몇 시간을 보냈다.
+- 직원의 LinkedIn 프로필 및 회사 검색 Google 뉴스에서 그들이
+
+Silicon Gear
+4 industry is comming to us .
+silicon gear is witnessing the doubld revolution. 
+To be specific, ADAS , Electric Car, Internet in Car will change  world in mobility.
+
+so silicon gear will provide 
+software integration services and consulting in the field of automotives
+
+1. Data Logging
+    The complexity of cars is increasing
+    it increasingly difficult to locate errors and faults.
+    it is necessary to have full traceability and logs for  analyzing the errors later.
+   --> We have a multiplatform system for the real time acquisition of data for vehicles 
+ 
+2. Next Generation Automotive Ethernet.
+    the solution is CAN, LIN, FlexRay  which is standard specification 
+    --> need development of CAN, LIN, FlexRay
+    
+3. ADAS ( Advanced Driver Assistance Systems ) : sensro , GPS, video is included in system to assit driver for safefy and Convenience
+    With the introduction of ADAS in automobiles
+    the complexity of ECUs is growing exponentially
+    necessary to introduce multiple microcontrollers, along with new operating systems such as VxWorks, QNX, Integrity or Linux, in addition to AUTOSAR.
+    
+    Service Range : 
+    board bring-up, driver development
+    
+4. Automotive Security 
+    ADAS and Ethernet is connected  a car to the Internet,
+    soon connect to their surroundings vehicle attack vectors grow exponentially,
+    
+    Service Range : 
+    consulting  to implement protection strategies against attacks using common method .
+    
+-------------------------------------------------------------------------------------------
+Tip 2: First impressions
+
+누군가를 처음 만날 때, 우리는 다양한 측면에 대한 즉각적인 생각을 함 그들의 성격의.
+오래 전에 첫 인상을 준비하고 계획하십시오.
+문 안으로 들어가. 그 우수한 인상을 계속 다음 날, 그리고 그 직업이 너일 수도있어.
+따라서:
+• 늦게 도착하지 마십시오.
+• 긍정적 인 신체 언어를 사용하고 매력을 발휘하십시오.
+시작부터.
+• 휴대 전화를 사용하기 전에 휴대 전화를 끄십시오.
+• 멋진보세요. 날카로운 옷을 입으십시오.
+• 악수로 인터뷰를 시작하십시오; 좋은 것을 줘라. 회사 언론 및 일부 위아래 운동.
+• 지역 사회와의 교감을 결정합니다.
+처음부터 면접관.
+• 면접관이 항상 말하기를 끝내도록하십시오.
+귀하의 응답을 제공합니다.
+• 선명도와 정확성을 유창하게 표현하십시오.
+
+-------------------------------------------------------------------------------------------
+Tip 4: Do-It-Yourself Interviewing Practice
+
+연습하라.
+
+
+-------------------------------------------------------------------------------------------
+Tip 6: Follow up and send a thank-you note
+
+당신은 지속적인 인상을 남기고 설정합니다.
+하드 카피 감사 노트, 흥분, 자격 표현 그리고 그 직위에 더 관심을 가져라.
+
+
+
+
+
