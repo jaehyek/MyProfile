@@ -27,7 +27,7 @@ Motorola Korea
 
 June, 2002 — December, 2003 (1 year 6 months)
 Position Title : Embedded Software Engineer & Function Leader
-Role : Writing Device Driver for Mobile Phone and Function Leader of Bluetooth Profile Which was based on REX ( Qualcomm Real time OS
+Role : Writing Device Driver for Mobile Phone and Function Leader of Bluetooth Profile Which was based on REX ( Qualcomm Real time OS)
 Wrote Device Driver : LCD, NOR Flash Memory, Power management
 Project involved : RaceTac, T720
 Tele-Communication with Bluetooth Head Quarter Team
