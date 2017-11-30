@@ -1,0 +1,21 @@
+Dear Hire Manager.  
+
+I am Jaehyek Choi, currently working for LG Electronics.
+
+I have developed the eMMC device driver for Android phone, and tested the eMMC and UFS components by creating a system 
+which was composed of two BSP , one is interface board, another is core board to test components.
+The Target Test Item is  the sanity of FTL ( Flash Translation Layer ).
+
+I have Issued a certificate to vendors and allowing the part to apply to the products.
+In addition, new test items are updated through reproducibility and analysis of defects in the field.
+The vendors that contact me are Samsung, SK hynix, SanDisk, Toshiba, and Micron.
+
+I have been doing this for over four years.
+I am confident that this experience will help your business.
+
+Additionally I have developed Windows Display Device driver for a graphic accelerator chip which has  a PCI bus.
+so I can also develop the SSD Device with PCI bus .
+
+Other than that, please refer to my other resume through my resume.
+
+Thank you
