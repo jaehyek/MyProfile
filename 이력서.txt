@@ -49,9 +49,9 @@ Embedded Software Engineer
 Samsung Electronics 
 
 February, 1990 — March, 2000 (10 years 1 month)
-Role : Writing Display device driver for PCI-Bus Graphic Accelerator One Chips
+Role : Writing Graphic device driver for PCI-Bus Graphic Accelerator One Chips
 Guiding a H/W design Structure for Graphic Chip 
-Writing the 2D, 3D Display Accelerator Device Driver for Windows3, 95, NT, 2000
+Writing the 2D, 3D Graphic Accelerator Device Driver for Windows3, 95, NT, 2000
 Writing the Video BIOS for PCI-Bus Graphic Accelerator Chip
 Supporting all of windows products.
 

@@ -33,13 +33,23 @@ silicon gears have four service
   So I can contribute to silicon gear .
   
   I can meet almost  requirement of this position 
-  
-    -------------------------------------------------------------------------------------------
-    silicon gear의 Embedded Sw Developer의 개발 요구사항.
 
+  
+-------------------------------------------------------------------------------------------
+Embedded Sw Developer - – Linux Engineer
+
+Rols :
+    develop the platform of ADAS ECUs on the Linux side
+    setting up the kernel,
+    programming the drivers
+    configuring the schedule
+    integrating proprietary middleware
+    bringing up new boards
+    
+Skills:
     Kernel development and device drivers experience --> OK
     Building a system with Yocto  --> NO, but I used repo system 
-    Linux Device tree experience  --> Yes
+    Linux Device tree experience  --> Yes, I am in charge of develop emmc driver .
     uBoot knowledge                 --> Yes
     C/C++ programming               --> Yes
     Previous experience in Python is appreciated  --> Yes  experience for 6 years.
@@ -51,8 +61,46 @@ silicon gears have four service
     VxWorks experience is more than welcome  --> I can do it
     English fluency! All our customers are outside Spain
 
+what is the benefit of Device Tree ? 
+1. No need to build up kernel image for special h/w board .
+2. If need to upgrade kernel version up ,  just insert kernel patch without more modification of kernel image. 
+
+Most device driver was developed as module part, it will reduce the memory size when loaded .
+
+what is the weakness of device tree ? 
+The device tree is not perfect operation description, 
+as example , assuming  I need to turn on the GPIO and wait for a while , and turn down the other GPIO.
+We normallly need to make new device driver. 
+
+Noramlly as i know, HDMI, Camera, LCD driver is not integrated in device tree .
+
+U-Boot
+--> qualcomm use the UFEI "XBL"
 
 
+-------------------------------------------------------------------------------------------
+Embedded Sw Developer 
+
+Rols : 
+    Configure OS modules
+    Analyse customer requirements
+    Be able to debug code for microcontroller targets
+    Document and write technical manuals of the delivered softwar
+
+Skills:
+ qualcomm
+  
+    Low level debugging with tools like Trace32 or similar`1234567890-=
+    CAN/LIN/Flexray knowledge
+    C/C++ for embedded systems. Previous experience in Python and other scripting languages is appreciated
+    Previous experience in real-time systems design and programming
+    Basic electronics – capability to understand schematics and use an oscilloscope
+    Experience in team-based development, using centralized issue trackers like JIRA, version control systems like SVN or git…
+    English fluency! All our customers are from outside Spain
+
+
+JIRA : issue tracker 
+Gerrit : Code review system + Git : Gerrit은 내부에 Git 서버를 두고, code와 Review을 관리한다. 
 
 -------------------------------------------------------------------------------------------
 What's your expected salary range?

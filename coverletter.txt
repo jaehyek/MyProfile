@@ -5,7 +5,7 @@ I am Jaehyek Choi, currently working for LG Electronics.
 I like to briefly introduce my history as an Embedded / Firmware Engineer for more than 15 years.
 
 To be more specific,
-1)I have developed   Windows Display Device Driver, DirectDraw, Direct3D and BIOS when I joined  Samsung Electronics Graphic Accelerator SOC team. 
+1)I have developed   Windows Graphic Device Driver, DirectDraw, Direct3D and BIOS when I joined  Samsung Electronics Graphic Accelerator SOC team. 
  At this time, I used windows SDK/DDK (about 10 years)
  
 2) At SynerTek Korea PDA SOC development 
