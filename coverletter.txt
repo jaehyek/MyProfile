@@ -5,7 +5,8 @@ I am Jaehyek Choi, currently working for LG Electronics.
 I like to briefly introduce my history as an Embedded / Firmware Engineer for more than 15 years.
 
 To be more specific,
-1)I have developed   Windows Graphic Device Driver, DirectDraw, Direct3D and BIOS when I joined  Samsung Electronics Graphic Accelerator SOC team. 
+1)I have developed   Windows Graphic Device Driver, DirectDraw, Direct3D and BIOS for PCI-bused Graphic Card
+ when I joined  Samsung Electronics Graphic Accelerator SOC team. 
  At this time, I used windows SDK/DDK (about 10 years)
  
 2) At SynerTek Korea PDA SOC development 
@@ -21,8 +22,13 @@ To be more specific,
   I was Feature Phone S / W development Project Leader for Verizon Wireless (over 2 years)
   Currently, I am responsible for the reliability of DDR, eMMC, and UFS Memory products. (Over 4 years)
   
-Especially,I have tested the eMMC/UFS of five vendors (SK Hynix, Samsung, Toshiba, Sandisk, and Micon) for the reliability, 
-I have issued a permission to pass / fail to produce.
+Especially,I have developed the eMMC device driver for Android phone, and tested the eMMC and UFS components by creating a system 
+which was composed of two BSP , one is interface board, another is core board to test components.
+The Target Test purpose is  to check the sanity of FTL ( Flash Translation Layer ).
+
+I have Issued a certificate to vendors and allowing the part to apply to the products.
+In addition, new test items are updated through reproducibility and analysis of defects in the field.
+The vendors that contact me are Samsung, SK hynix, SanDisk, Toshiba, and Micron.
 
 If I list up any additional experiences I have,
 Statistically accessible (currently available with Six Sigma MBB),
